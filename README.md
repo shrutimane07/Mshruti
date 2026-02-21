@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm SHRUTI from Kolhapur <br><br>- 📚 I'm currently learning Data Science with GenAi<br>- ⚡ In my free time I explore new tech world</p>
+<p align="left">I'm SHRUTI from Kolhapur <br><br>- 📚 I'm currently learning Data Analytics <br>- ⚡ In my free time I explore new tech world</p>
 
 ###
 
@@ -67,26 +67,17 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
@@ -95,11 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
-</div>
 />
 </div>
 
